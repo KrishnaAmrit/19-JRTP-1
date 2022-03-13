@@ -7,7 +7,11 @@ public class JavaUtils {
 	}
 
 	public String decode() {
-		System.out.println("print Decode Method");
+		System.out.println("print Decode Methodg");
 		return "12";
+}
+public String Incode() {
+	System.out.println("print Incode Methodg");
+	return "12";
 }
 }
