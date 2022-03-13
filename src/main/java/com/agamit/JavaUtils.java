@@ -7,17 +7,11 @@ public class JavaUtils {
 	}
 
 	public String decode() {
-		int b = 30;
-
-		// bux fix 404
-		System.out.println("Hi Git stash");
-
-		// change for bug fix 101
-		double d1 = 10.09;
-		double d2 = 12.09;
-		double d3 = 13.09;
-
-		int b3 = 0;
+		System.out.println("print Decode Methodg");
 		return "12";
+}
+public String Incode() {
+	System.out.println("print Incode Methodg");
+	return "12";
 }
 }
