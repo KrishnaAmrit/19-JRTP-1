@@ -13,6 +13,7 @@ public class JavaUtils {
 
 	public String Incode(int a) {
 		System.out.println("print Incode Methodg");
+		 a=10;
 		return "12";
 	}
 	
