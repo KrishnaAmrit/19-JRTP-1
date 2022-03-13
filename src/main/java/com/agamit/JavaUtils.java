@@ -18,8 +18,7 @@ private void sysout() {
 	double d2=12.09;
 	double d3=13.09;
 	
-	int b1=30;
-
+int b3=0;
 }
 	
 	
