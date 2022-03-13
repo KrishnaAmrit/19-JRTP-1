@@ -22,8 +22,7 @@ public class JavaUtils {
 		int b3 = 0;
 
 	}
-	
-	public int decode() {
+	public String decode() {
 		int b = 30;
 
 		// bux fix 404
@@ -35,9 +34,6 @@ public class JavaUtils {
 		double d3 = 13.09;
 
 		int b3 = 0;
-
-
-		return 1;
-	}
-
+		return "12";
+}
 }
